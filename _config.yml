@@ -1,0 +1,28 @@
+name: meity
+favicon: null
+layout_spectrum: 0.5190371298231184
+typography_spectrum: 0.15192515891976655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.197368138236925
+  lightness: 0.39171493146568537
+  saturation: 0.5562862975057214
+  rhythmicContrast: 0.7354500307701528
+purpose: []
